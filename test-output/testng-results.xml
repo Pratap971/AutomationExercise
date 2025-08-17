@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-17T13:29:50 IST" name="AutomationExercise Suite" finished-at="2025-08-17T13:30:38 IST" duration-ms="48150">
+    <groups>
+    </groups>
+    <test started-at="2025-08-17T13:29:50 IST" name="AutomationExercise Tests" finished-at="2025-08-17T13:30:38 IST" duration-ms="48150">
+      <class name="testCases.TC002_CartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC002_CartTest@ec0c838]" started-at="2025-08-17T13:30:05 IST" name="setUp" finished-at="2025-08-17T13:30:20 IST" duration-ms="15024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddToCart()[pri:0, instance:testCases.TC002_CartTest@ec0c838]" started-at="2025-08-17T13:30:20 IST" name="verifyAddToCart" finished-at="2025-08-17T13:30:35 IST" duration-ms="14506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCart -->
+        <test-method is-config="true" signature="resetState()[pri:0, instance:testCases.TC002_CartTest@ec0c838]" started-at="2025-08-17T13:30:35 IST" name="resetState" finished-at="2025-08-17T13:30:38 IST" duration-ms="3284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetState -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_CartTest@ec0c838]" started-at="2025-08-17T13:30:38 IST" name="tearDown" finished-at="2025-08-17T13:30:38 IST" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_CartTest -->
+      <class name="testCases.TC001_ProductSearchPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC001_ProductSearchPage@192f2f27]" started-at="2025-08-17T13:29:50 IST" name="setUp" finished-at="2025-08-17T13:29:56 IST" duration-ms="5989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductSearch()[pri:0, instance:testCases.TC001_ProductSearchPage@192f2f27]" started-at="2025-08-17T13:29:56 IST" name="verifyProductSearch" finished-at="2025-08-17T13:30:02 IST" duration-ms="6122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductSearch -->
+        <test-method is-config="true" signature="resetState()[pri:0, instance:testCases.TC001_ProductSearchPage@192f2f27]" started-at="2025-08-17T13:30:02 IST" name="resetState" finished-at="2025-08-17T13:30:05 IST" duration-ms="2303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetState -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_ProductSearchPage@192f2f27]" started-at="2025-08-17T13:30:05 IST" name="tearDown" finished-at="2025-08-17T13:30:05 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_ProductSearchPage -->
+    </test> <!-- AutomationExercise Tests -->
+  </suite> <!-- AutomationExercise Suite -->
+</testng-results>
